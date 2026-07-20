@@ -43,7 +43,7 @@ A modern **Movie Recommendation System** built using **Python, Streamlit, and Ma
 ```bash
 git clone https://github.com/your-username/movie-recommender.git
 cd movie-recommender
-
+---
 
 ### 🧠 How It Works
 
